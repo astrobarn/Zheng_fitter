@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created 2015
+Created 2017
 
 This code explores the rise-time of the type Ia SNe
 in the PTF sample. It calculates explosion times and
